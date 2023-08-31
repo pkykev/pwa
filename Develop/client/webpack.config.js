@@ -24,7 +24,7 @@ module.exports = () => {
       }),
 
       new InjectManifest({
-        swSrc: './src-se.js',
+        swSrc: './src-sw.js',
         swDest: 'src-sw.js',
       }),
 
@@ -35,7 +35,7 @@ module.exports = () => {
         short_name: 'J.A.T.E',
         description: "This app creates a text editor",
         backround_color: '#225ca3',
-        theme_color: '225ca3',
+        theme_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
