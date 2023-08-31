@@ -19,8 +19,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 This project is designed to streamline the process of taking notes for programming on or offline and be able to access them from any location.
 
   ## Installation instructions 
-  ### Using npm, inquirer and SVG 
+  ### Using npm
   1. In the develop directory start terminal and run npm install - scripts should check all sub directories
+  2. To use the app offline simply install it from the main page.
 
 ## What my project is used for
 Make note taking easier for programming
