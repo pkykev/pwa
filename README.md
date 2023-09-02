@@ -27,7 +27,7 @@ This project is designed to streamline the process of taking notes for programmi
 Make note taking easier for programming
 
   ### Test instructions and video
-  1. N/A
+  1. <a href=https://secure-springs-01002-5a20db1cf331.herokuapp.com> APPLICATION </a>
 
   ### How to contribute
   I will be working on this myself to further my coding skills, no contributions please.
